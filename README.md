@@ -41,11 +41,6 @@ Sales-Revenue-Analysis-Dashboard
 │
 └── README.md
 
-## 📷 Dashboard Preview
-
-Add the screenshot below after uploading it to GitHub.
-
-![Dashboard](Images/dashboard.png)
 
 ## 🚀 How to Use
 
